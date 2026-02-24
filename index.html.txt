@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fix It Tech LLC | Marietta, OH Tech Support</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        header { background: #004a99; color: white; padding: 2rem; text-align: center; border-radius: 8px; }
+        .cta { background: #e67e22; color: white; padding: 15px; text-align: center; text-decoration: none; display: block; font-weight: bold; border-radius: 5px; margin: 20px 0; }
+        section { margin: 20px 0; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+        h2 { color: #004a99; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fix It Tech LLC</h1>
+        <p>Reliable Tech Support for the Mid-Ohio Valley</p>
+    </header>
+
+    <a href="tel:YOUR-PHONE-NUMBER" class="cta">Click to Call: (YOUR-PHONE-NUMBER)</a>
+
+    <section>
+        <h2>Local Tech Support You Can Trust</h2>
+        <p>Based in Marietta, OH, we specialize in jargon-free computer repair, RAM upgrades, and digital security audits.</p>
+        <ul>
+            <li>Computer Repair & Optimization</li>
+            <li>Virus Removal & Security Audits</li>
+            <li>Home Wi-Fi & Printer Setup</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>Email: help@fixitmarietta.com</p>
+        <p>Serving Marietta, Belpre, and Parkersburg.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Fix It Tech LLC. Registered in Ohio.</p>
+    </footer>
+</body>
+</html>
